@@ -1,0 +1,16 @@
+# HFS+
+* Cluster Size - 512B
+* Maximum partition size - 8 EB (Exabytes)
+* Maximum file size - 8 EB (Exabytes)
+* Filenames - Unicode 255 characters
+* File permissions supported? - Yes
+* Transaction log? - N/A
+
+# ARRUMAR
+# FAT12
+* Cluster Size - 512 bytes to 4K
+* Maximum partition size - 16MB
+* Maximum file size - 8 EB (Exabytes)
+* Filenames - Unicode 255 characters
+* File permissions supported? - Yes
+* Transaction log? - N/A
