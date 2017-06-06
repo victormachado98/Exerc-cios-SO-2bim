@@ -1,0 +1,16 @@
+# Exercício de Virtualização
+
+# 1) Cite todos os softwares de virtualização que você conhece:
+  * VMWare, Xen, Bochs e Microsoft Virtual PC.
+  
+# 2) Quais tipos de virtualização vocês conhecem?
+  * Virtualização completa, paravituralização, emuladores e virtualização no nível operacional.
+  
+# 3) Qual a principal diferença entre Virtualização Completa e Paravirtualização?
+  * A virtualização completa realiza a completa abstração do sistema físico, criando um sistema físico virtual completo, sobre o qual 
+  o SO convidado é executado. Já na paravirtualização o SO convidado é alterado para chamar a VM sempre que for executar uma instrução
+  sensível.
+  
+# 4) Cite 3 cenários de aplicação de uma infraestrutura de virtualização?
+  * Criar um novo ambiente de testes e de desenvolvimento de software, hospedar aplicações legadas e proteger e gerenciar os desktops
+  da empresa.
