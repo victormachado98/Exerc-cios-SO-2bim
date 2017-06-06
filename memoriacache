@@ -1,0 +1,7 @@
+# Pesquise quais algoritmos ou cálculos matemáticos podemos utilizar em um projeto ou programa para resolver isso.
+
+Para resolver tal problema, podemos utilizar os seguintes algoritmos:
+ * LRU (least Recently Used): Determina como candidatos à substituição os blocos que não tenham sido acessados recentemente.
+ * FIFO (First-In-First-Out): Seleciona como candidato para substituição o bloco que foi armazenado primeiro na Memória cache;
+ * LFU (least Frequently Used ): o sistema de controle selecionará o bloco que tem tido menos acessos por parte do processador;
+ * Escolha Aleatória: O sistema de controle da memória Cache escolhe aleatoriamente o bloco que será removido.
